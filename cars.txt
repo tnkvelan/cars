@@ -2,4 +2,5 @@ Once upon a time, car was a status symbol for one who owns. nowadays this was ch
 Based on performonce and usage we can classified into several types:
 1. Hatchpack
 2. Sedan
+3.  Sports Utility Vehicles
 

@@ -8,5 +8,3 @@ Based on performonce and usage we can classified into several types:
 4. Offroad 
     1) 4 Wheel drive (4WD)
     2) All Wheel drive (AWD)
-
-    
